@@ -60,7 +60,7 @@ This project is released under the MIT License. See LICENSE.
 ![Add Location Modal screenshot](./Add-Location.png)
 
 ## Demo video
-Watch a short walkthrough: ![Watch the video]
+Watch a short walkthrough: ![Watch the video](./Demo.mp4)
 
 ## How to Use SmartPantry
 1. **Add a Location**  
